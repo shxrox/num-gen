@@ -1,0 +1,25 @@
+body{
+  font-family: Verdana;
+  text-align: center;
+  background-color: bisque;
+
+}
+
+#myButton{
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 5px;
+   background-color: aqua;
+   transition: background-colour 0.25s;
+   cursor: pointer;
+}
+
+#myButton:hover{
+  background-color: blue;
+  color: aliceblue;
+
+}
+
+#myLabels{
+  font-size: 3em;
+}
